@@ -4,6 +4,7 @@ Web Project for the Art Pennington Web site
 
 - Date **5-09-2024**
 
+- Intial Client meeting complete
 - Domain secured
 - Website and template selected
 - email user set up for info@...

@@ -13,3 +13,9 @@ Web Project for the Art Pennington Web site
 - email is created and Wix is receiving email
 - booking event tested successfully
 - Site Member Add worked as well
+
+## session update
+
+- update banner image
+- update banner text
+- remove practice template

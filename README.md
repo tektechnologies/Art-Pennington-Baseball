@@ -20,3 +20,4 @@ Web Project for the Art Pennington Web site
 - update banner text
 - remove practice template
 - deleted and blocked some spam emails
+- update text on home page banner and middle section

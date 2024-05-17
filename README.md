@@ -21,3 +21,9 @@ Web Project for the Art Pennington Web site
 - remove practice template
 - deleted and blocked some spam emails
 - update text on home page banner and middle section
+
+## May 16
+
+- add art images to home page
+- add baseball card images to home page
+- check email

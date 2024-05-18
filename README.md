@@ -37,3 +37,8 @@ Web Project for the Art Pennington Web site
 - update profile page menu items removed links to pages
 
 ![profile account menu](images/profilePagemenu.png)
+
+- update favicon image for browser tabs
+- add google image for when site is searched in the browser.
+- add donation page with text content and default images from wix.
+- add light box that will serve as the link to donation information and pay portals.

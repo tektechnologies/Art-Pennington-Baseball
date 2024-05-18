@@ -42,3 +42,9 @@ Web Project for the Art Pennington Web site
 - add google image for when site is searched in the browser.
 - add donation page with text content and default images from wix.
 - add light box that will serve as the link to donation information and pay portals.
+- update footer text and social media links
+- add new banner section for donations specific cause
+- we can update Banner once house donations are complete
+- adding stock images that we can change at any time
+- edited mobile version of site to fit banner image of art to see more of his face
+

@@ -27,3 +27,13 @@ Web Project for the Art Pennington Web site
 - add art images to home page
 - add baseball card images to home page
 - check email
+
+## May 18
+
+- update homepage text
+- hide menu links to other webpages
+![home page login menu](images/profile-menu-items.png)
+- update Cart message to say products coming soon!
+- update profile page menu items removed links to pages
+
+![profile account menu](images/profilePagemenu.png)

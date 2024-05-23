@@ -47,5 +47,9 @@ Web Project for the Art Pennington Web site
 - we can update Banner once house donations are complete
 - adding stock images that we can change at any time
 - edited mobile version of site to fit banner image of art to see more of his face
-- four links on the home page to donations page. 
+- four links on the home page to donations page.
 
+## more updates
+
+- add All stars card to website
+- add copyright to the card to keep from downloading

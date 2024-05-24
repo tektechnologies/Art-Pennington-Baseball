@@ -53,3 +53,5 @@ Web Project for the Art Pennington Web site
 
 - add All stars card to website
 - add copyright to the card to keep from downloading
+- add video to home page with temporary layout
+- billy is in cooperstown.
